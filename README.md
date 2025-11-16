@@ -2,6 +2,9 @@
 A simple movie recommendation system built using Python and Jupyter Notebook. Includes data preprocessing, EDA, and content-based recommendation using similarity scores to suggest related movies.
 
 
+<img width="1280" height="720" alt="Cozy Movie Night Scene with Cinema Screen" src="https://github.com/user-attachments/assets/d8eda90b-e532-4033-a207-cbfc283c37b3" />
+
+
 🎬 Movie Recommendation System¶
 This project builds a simple and effective Movie Recommendation System using Python. It analyzes movie metadata and user ratings to suggest films that match a user’s preferences.
 
